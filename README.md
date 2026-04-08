@@ -23,10 +23,8 @@ This project is built using pure, vanilla web technologies to ensure maximum per
   * Array filtering, mapping, and sorting logic.
 
 ## Setup Instructions
-Because FilterVault relies solely on native web technologies, there are no package managers, build steps, or dependencies required to run it.
 
 1. **Download or Clone** the project files to your local machine.
 2. **Locate** the `index.html` file in your file explorer.
 3. **Launch the application** by simply double-clicking `index.html` to open it in your default web browser (Chrome, Safari, Firefox, or Edge).
 
-*(Optional for Developers):* If you want to modify the code, open the project folder in an editor like Visual Studio Code and use the **Live Server** extension to launch the site with automatic hot-reloading.
