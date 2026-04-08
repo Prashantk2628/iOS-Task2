@@ -16,10 +16,10 @@ The platform features a dynamic, real-time search interface wrapped in a premium
 ## Tech Stack Used
 This project is built using pure, vanilla web technologies to ensure maximum performance and zero dependency overhead.
 * **HTML5:** Semantic markup and structure.
-* **CSS3:** * Custom properties (CSS Variables) for centralized theming.
+* **CSS3:**  Custom properties (CSS Variables) for centralized theming.
   * CSS Grid & Flexbox for complex, responsive layouts.
   * Backdrop-filters for glassmorphism effects on the modal.
-* **Vanilla JavaScript (ES6+):** * DOM manipulation and event delegation.
+* **Vanilla JavaScript (ES6+):**  DOM manipulation and event delegation.
   * Array filtering, mapping, and sorting logic.
 
 ## Setup Instructions
